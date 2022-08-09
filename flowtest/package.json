@@ -1,0 +1,10 @@
+{
+  "name": "toyclass3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type":"module",
+  "dependencies": {
+    "puppeteer-core": "^15.5.0"
+  }
+}
